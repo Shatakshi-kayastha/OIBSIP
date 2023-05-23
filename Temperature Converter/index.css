@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color: #fff;
+}
+h1{
+    color: rgb(105, 12, 105);
+    text-shadow: rgb(13, 13, 13);
+}
+label{
+    font-size: 25px;
+    color: rgb(203, 65, 234);
+}
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+input{
+    border-color: rgb(17, 1, 17);
+    box-shadow: 0px 5px 10px rgb(176, 28, 229);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    
+}
+
+.button{
+    background-color: rgb(203, 65, 234);
+    color: #0d0d0d;
+    height: auto;
+    width: 150px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
