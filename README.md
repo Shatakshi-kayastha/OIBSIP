@@ -18,6 +18,8 @@ This portfolio website showcases my skills and projects. You can download resume
 [Portfolio](http://127.0.0.1:5500/Portfolio/index.html)
 
 
+![Portfolio Gif](PORTFOLIO.mp4)
+
 
 
 # Task 3 - Temperature convert
